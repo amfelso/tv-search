@@ -1,6 +1,6 @@
 {
-  "homepage": "https://amfelso.github.io/react-boxoffice",
-  "name": "react-boxoffice",
+  "homepage": "https://amfelso.github.io/tv-search/",
+  "name": "tv-search",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,7 +15,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-   "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "npm run clear && react-scripts build",
     "test": "react-scripts test",
