@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/tv-search/static/js/main.0800408c.chunk.js",
+    "main.js.map": "/tv-search/static/js/main.0800408c.chunk.js.map",
+    "runtime-main.js": "/tv-search/static/js/runtime-main.e95dd9f5.js",
+    "runtime-main.js.map": "/tv-search/static/js/runtime-main.e95dd9f5.js.map",
+    "static/js/2.2d128222.chunk.js": "/tv-search/static/js/2.2d128222.chunk.js",
+    "static/js/2.2d128222.chunk.js.map": "/tv-search/static/js/2.2d128222.chunk.js.map",
+    "index.html": "/tv-search/index.html",
+    "service-worker.js": "/tv-search/service-worker.js",
+    "service-worker.js.map": "/tv-search/service-worker.js.map",
+    "static/js/2.2d128222.chunk.js.LICENSE.txt": "/tv-search/static/js/2.2d128222.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e95dd9f5.js",
+    "static/js/2.2d128222.chunk.js",
+    "static/js/main.0800408c.chunk.js"
+  ]
+}
